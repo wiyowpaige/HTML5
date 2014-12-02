@@ -1,0 +1,18 @@
+body{
+width:960px;
+margin:15px auto;
+font-family: Arial, "MS Trebuchet", sans-serif;
+}
+p{
+margin:0 0 20px 0;
+}
+Report erratum
+this copy is (P1.0 printing, December 2010)
+REDEFINING A BLOG USING SEMANTIC MARKUP 36
+p, li{
+line-height:20px;
+}
+
+header#page_header{
+width:100%;
+}
